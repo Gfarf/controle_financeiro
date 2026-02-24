@@ -5,5 +5,6 @@ import (
 )
 
 func main(){
-	fmt.Printf("--- Initializing server ---")
+	fmt.Printf("--- Initializing server ---\n")
+	
 }
