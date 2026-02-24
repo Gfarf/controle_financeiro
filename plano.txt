@@ -1,0 +1,9 @@
+duas programações: backend em go, front em python (ou front nativo android)
+para backend:
+	- utilizar postgres (permitir o acesso de mais de um usuário da família aos mesmos dados) para base de dados
+	- criar servidor apirest
+para frontend:
+	- receber input de contas do usuário
+	- exibir resultados
+	
+
